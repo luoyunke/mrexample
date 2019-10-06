@@ -1,0 +1,4 @@
+﻿hello linux
+你好，世界
+hello world
+这样刚好七个字。
